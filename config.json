@@ -1,0 +1,57 @@
+{
+    "bot": {
+        "token": "MTA0MDQxNzczMzU1NDIxMjkzNQ.GpVFzW.3AzfY1nxKZHM7wDeUA9foyQc9t4lILqHZuRUHg",
+        "owner": "325339036971696128",
+        "prefix": ".",
+        "BotStatus": "",
+        "BotFooter": "",
+        "cooldown": 8
+    },
+    "logs": {
+        "taglog": "1092519744151748669",
+        "isimlog": "1092519748740321320",
+        "rollog": "1092519750514528358",
+        "kayıtlog": "1092519752334844045"
+    },
+    "roles": {
+        "booster": "748311329529397349",
+        "vip": "1092519486608920687",
+        "sponsor": "1092519393147224227",
+        "müzisyen": "1092519475712106538",
+        "team": "1092519485719720036"
+    },
+    "channels": {
+        "chat": "1092519632734265456",
+        "voicechannel": "1092519777467105322",
+        "welcomechannel": "1092519569744207882",
+        "rules": "1092519577369452596"
+    },
+    "registration": {
+        "unregistered": "1092519493537910874",
+        "man": ["1092519488601202708", "1092519491147141130"],
+        "woman": ["1092519487561019442", "1092519490002108507"],
+		"botcommands": "1092519410364846090",
+        "staff": "1092519432825360385",
+        "GuilDTag": "",
+        "TagSymbol": "•",
+        "autonickname": "İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "1092519458578374776",
+        "susoeciosnickname": "•Şüpheli Hesap",
+        "oneman": "1092519491147141130",
+        "onewoman": "1092519490002108507",
+        "GuildDiscrim": "1111",
+        "minage": 15, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "747551730002034720",
+        "GuilDName": "Lothar#1111",
+        "GuildOwnerRole": ["1092519375036227767"]
+    },
+    "emojis": {
+        "tada": "Çekiliş emojisi",
+        "yes": "Onay emojisi",
+        "no": "Red emojisi"
+        }
+    }
